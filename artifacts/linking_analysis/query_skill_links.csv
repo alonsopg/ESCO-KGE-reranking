@@ -1,0 +1,301 @@
+row_id,skill_uri,skill_label,sim,qid,query,raw_query
+0,http://data.europa.eu/esco/skill/f4346299-e22a-4686-8e61-2c9b0cd51c7d,digitale Sicherheitsmaßnahmen anwenden,0.904953122138977,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/df329d70-87b0-466b-a214-3431f36e2a5e,IKT-Geräte schützen,0.8224214911460876,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/426ceaba-6867-481c-bb6b-aee3933da7d2,IKT-Sicherheit,0.7561370134353638,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/8f6ed69b-29d0-4c01-81ba-f05920a185f3,digitales Kuratieren,0.7533286213874817,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490,Datenschutz gewährleisten,0.74703449010849,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/18bf658e-ff9b-4151-adea-c03f06538a4d,Garantieunterlagen für digitale Ausrüstung verwalten,0.7446633577346802,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44,Netzsicherheit,0.7441816329956055,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/c4ba12d1-4698-42fa-8abb-789462ea2586,die Umwelt vor den Folgen digitaler Technologien schützen,0.743817925453186,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42,IKT-Sicherheitsgesetzgebung,0.7404133677482605,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/b769f524-0f25-44d7-8538-5c46710a040e,digitale Dokumente verwalten,0.7400755286216736,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239,Cybersicherheitsvorfälle behandeln,0.7323756814002991,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/e5beeff8-7c98-490a-ae2c-16fbb6a87305,Schlüssel zum Schutz der Daten verwalten,0.7133658528327942,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97,digitale Identität verwalten,0.7098135352134705,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5,Datenschutz,0.7087844610214233,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087,Informationssicherheit gewährleisten,0.7072647213935852,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb,digitale Systeme,0.7058347463607788,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/14d1e367-3efe-4ec5-86ae-eca48710ee4e,IKT-Sicherheitsstrategien umsetzen,0.7031428813934326,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/aa0d8201-5a8e-417f-81f4-c04601139582,Digitalisierung,0.6993421316146851,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/33efa504-2f26-424d-b662-cee77e6e9c93,digitales Identitätsmanagement,0.6979484558105469,0,digitaler schutz,Digitaler Schutz
+0,http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40,IT-Sicherheits-Compliance durchsetzen,0.6968191862106323,0,digitaler schutz,Digitaler Schutz
+1,http://data.europa.eu/esco/skill/97bd1c21-66b2-4b7e-ad0f-e3cda590e378,Datenanalyse,0.9313693046569824,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f,Datenanalyse durchführen,0.9177560806274414,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696,Daten untersuchen,0.8346570730209351,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01,Datenwissenschaft,0.8310971260070801,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79,Daten sammeln,0.8271220922470093,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c,statistische Analysetechniken anwenden,0.8151756525039673,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8,Datenbereinigung durchführen,0.8104691505432129,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e,Datensätze erstellen,0.8041943907737732,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/f2d57f41-43b4-4f5b-8100-3df5c21eda50,Daten verarbeiten,0.7894291281700134,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,Datenmodelle,0.7828993797302246,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3,spezielle Datenanalysesoftware nutzen,0.7692740559577942,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/3606bf22-1987-4356-b8c4-13e89d8f6c69,Förderdaten interpretieren,0.7681688070297241,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/75f650d0-9096-4b8f-bbd6-ad05ee3f6121,Analyseergebnisse dokumentieren,0.765074610710144,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/29431e90-435e-4a3b-9eb5-c89f6d7f4fea,Daten zum Mälzprozess aufzeichnen,0.7574295401573181,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/6f993130-082b-4732-b62f-52cdf2096ad9,Methoden der logistischen Datenanalyse nutzen,0.7568797469139099,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/9effa3d7-c0c4-4583-ad94-b496ba5e5f2c,Data-Mining-Methoden,0.7477350234985352,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,Datenmodelle erstellen,0.7465676069259644,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e,quantitative Daten verwalten,0.7437479496002197,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/062320e5-79d1-45e8-8b7e-5deeb53279a2,Online-Datenanalyse durchführen,0.7380775213241577,1,einfache datenanalyse,Einfache Datenanalyse
+1,http://data.europa.eu/esco/skill/08b04e53-ed25-41a2-9f90-0b9cd939ba3d,Forschungsdaten verwalten,0.7371170520782471,1,einfache datenanalyse,Einfache Datenanalyse
+2,http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c,Unternehmensführung umsetzen,0.8993304967880249,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/848b5879-10af-4e3a-bfbf-263956b4ebf3,Abläufe in der Geschäftsleitung,0.8820277452468872,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/307ffd2d-8fb3-43ff-8ad8-4052382f8f83,über die allgemeine Führung eines Unternehmens berichten,0.8599281907081604,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/29d3663f-348a-4b67-a8db-b94fd3912385,Unternehmensgrundsätze vermitteln,0.8444464206695557,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/bd698bbe-7003-4508-b422-46c2ff4d5e95,Konzepte der Unternehmensstrategie,0.8441561460494995,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/885564e4-9818-44ac-a77d-ddfe30b34ed7,ein Unternehmen mit großer Sorgfalt führen,0.8060113191604614,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/a8f2a095-9d03-43f0-980d-2b9fcc59a994,Unternehmenskultur formen,0.8025693893432617,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/0a48d064-dd04-47fb-a00d-85e9b4874033,betriebswirtschaftliche Grundsätze,0.7995363473892212,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/ddc8da70-b94f-43ef-88dc-aebc7bef4f7d,Verantwortung für die Leitung eines Geschäfts übernehmen,0.7986488938331604,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/72731261-d7b0-4e6d-bbde-5c76c85934d0,Unternehmensaufbau festlegen,0.7951303124427795,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/272fddbb-917a-4720-8903-85ce51e1cbe5,die Führung des Unternehmens durch visionäre Zielsetzungen prägen,0.7832587361335754,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/fc54bd7f-0c03-4fdd-af8c-5eb4021e716d,Sich mit den Unternehmenszielen identifizieren,0.7803241610527039,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17,Anforderungen der Geschäftswelt analysieren,0.7780721187591553,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/ba2c6181-b036-40b4-8f6d-51499463ccbb,Unternehmensstrategien entwickeln,0.7753524780273438,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/1a4fdd0e-2cbe-4b77-aa6e-e46efc181b76,Organisation oder Unternehmen vertreten,0.76967453956604,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/8e602c80-2f39-498a-8cd7-eabaae742de4,das Unternehmen auf Messen vertreten,0.7686645984649658,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/91816e1a-d026-4d21-9b1c-59ca5cf488de,interne Faktoren von Unternehmen analysieren,0.7647722363471985,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/43268a87-8280-4e3f-bf97-97dc973d60ef,das Unternehmen vertreten,0.7620636820793152,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6,Business-Analyse,0.7613914012908936,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+2,http://data.europa.eu/esco/skill/39531b63-5c06-432f-81e3-15b551ae1310,Unternehmenswerte durchsetzen,0.7581543922424316,2,kernelemente der unternehmensführung,Kernelemente der Unternehmensführung
+3,http://data.europa.eu/esco/skill/d1910ad7-0c87-4f38-8a41-7c193e5dc16d,Volkswirtschaftslehre,0.9151762127876282,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/eb44d926-143f-4921-8150-4e537434b904,wirtschaftswissenschaftliche Grundlagen vermitteln,0.8797510862350464,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/2a0efd9a-4a60-4edc-8561-f2754d24eeb8,Wirtschaftsmathematik,0.8464016318321228,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/88af9294-b697-4687-ae19-aefbb6234dfa,Betriebswirtschaft,0.7553366422653198,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/d05c950b-40ac-4d40-92d6-d6aa6063db7f,Wirtschaftsanthropologie,0.7328112125396729,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/d41262ae-eca1-4ede-89a8-46d2d99a7a31,wirtschaftliche Kriterien bei Entscheidungen berücksichtigen,0.7211518883705139,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/50a382c6-e848-467d-b156-7a1a3610b522,Entwicklung von Wirtschaftsprognosen,0.720964789390564,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/0a48d064-dd04-47fb-a00d-85e9b4874033,betriebswirtschaftliche Grundsätze,0.712994396686554,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/8394fefb-f62a-48c0-a156-3117cefdb9b3,wirtschaftspolitische Strategien entwickeln,0.702107310295105,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/0085e6bd-6829-4e8e-b302-842a7fe57ed9,Kenntnisse in Haushaltsführung vermitteln,0.6994439363479614,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/341c4478-c976-4ff0-a102-cfd92174d873,Wirtschaftsrecht,0.6948941946029663,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/0f5bd097-ed76-47f7-8f44-93be67967b5f,Finanzjargon erläutern,0.677162766456604,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/d4890756-85c7-411a-8d2c-a356f300bc3f,Politische Ökonomie,0.6675655245780945,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/d2f95b34-44ca-4902-8252-09c202f46a3d,Volkswirtschaft überwachen,0.6664526462554932,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/81db5616-3c98-4317-a728-5dae08d44bd4,Finanz- und Geschäftsterminologie verstehen,0.6596312522888184,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/22c45bf7-e52b-475f-847b-c32a87f65a5d,Kreislaufwirtschaft,0.6580711603164673,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/f2a34d6b-131a-4b8f-a110-898b9c91d18f,ökonomische Entwicklungen voraussagen,0.6535201668739319,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/811bdb9d-5bf7-4b5a-a3f5-4fc2002f6d57,Finanzkompetenz,0.6534327864646912,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/e95058a6-e139-42e7-a470-72038a606649,finanzielle Tragfähigkeit beurteilen,0.6488521695137024,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+3,http://data.europa.eu/esco/skill/ead58f22-0af5-467c-ac1e-b750e4e1ac6a,Wirtschaftspläne entwickeln,0.648576021194458,3,ökonomische kenntnisse,Ökonomische Kenntnisse
+4,http://data.europa.eu/esco/skill/518dc04d-092d-4fa1-bd82-88b7a9278ef7,Rechte des geistigen Eigentums verwalten,0.7983658313751221,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/2ad081e6-0a3f-4612-ac15-7ace75d39e26,Recht am geistigen Eigentum,0.7365182042121887,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/dc665f4d-0c87-4f73-8fa9-b51df1bf4980,Nutzungsrechte verhandeln,0.7330181002616882,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/ffbeb8b6-b320-46f6-a2fe-b19743b5e696,Nutzungsrechte aushandeln,0.7316862344741821,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c,Unternehmensführung umsetzen,0.6973899006843567,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/38de2e21-e312-4c73-a2cf-7f8842f2ba62,Verzeichnis des Unternehmenseigentums erstellen,0.6911888122558594,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/d163cdab-6b68-4bbd-84cd-aeb75b4a65e2,Tätigkeiten von Holdinggesellschaften,0.672304630279541,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/7eb4c570-9dc7-4f4d-83d2-f4c4c87b6e49,für die Erledigung von Fusionen und Übernahmen sorgen,0.6716592311859131,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/bd698bbe-7003-4508-b422-46c2ff4d5e95,Konzepte der Unternehmensstrategie,0.6709499359130859,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/0a43729f-2a79-4dae-9faa-95520daae79f,Unternehmenspolitik anwenden,0.6661500334739685,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/6766e2e3-425b-4c6b-963d-82f9b2846e21,Lizenzportfolio verwalten,0.6657683849334717,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/a91732ce-988e-4105-9570-f425c6ffdc82,Regelung des geistigen Eigentums an digitalen Inhalten,0.6635414958000183,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/f34dddee-e64b-45de-b1f8-9bef375689dc,Schriftverkehr mit Lizenzbewerbern führen,0.6612696647644043,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/7a1dcd86-8c78-40a8-b446-269438f24d72,Betrieb von Tochtergesellschaften,0.6612223982810974,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/2910e2f0-115f-4868-9282-604067153c4f,rechtmäßigen Geschäftsbetrieb sicherstellen,0.6573964357376099,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/cae4146d-71d8-46a8-9a90-748a63c22f25,Beratung zu Patenten leisten,0.6513516306877136,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/d63c2bad-817d-4116-b4d8-b927cb01212d,Gewerberecht,0.6512477993965149,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/ba2c6181-b036-40b4-8f6d-51499463ccbb,Unternehmensstrategien entwickeln,0.6501879096031189,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/39531b63-5c06-432f-81e3-15b551ae1310,Unternehmenswerte durchsetzen,0.645616352558136,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+4,http://data.europa.eu/esco/skill/4934c105-5e90-4874-9957-78eceef1a13c,in Eigeninitiative die Sicherung von Verkäufen anstreben,0.6421571969985962,4,unternehmerische fähigkeiten strategie ablaufsteuerung einkauf unternehmensleitung und schutz von urheberrechten,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)"
+5,http://data.europa.eu/esco/skill/d38871eb-b988-495e-8fca-345677b597a8,Zustandserkennung,0.7784296274185181,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/409a0245-0e6c-4aac-ba16-0920ecb76a8d,Selbstreflexion vornehmen,0.7399799823760986,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/3727f0d3-da1b-4ce3-a9cb-efe6130fe41f,Kontamination beurteilen,0.6875067949295044,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/5915e97d-ecca-4713-941e-ad7c8c00720b,bei der Selbstmedikation helfen,0.681492805480957,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/c368f4eb-d6b2-4b8f-8f21-14926ab7fb07,Orientierungsvermögen einsetzen,0.6797157526016235,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/a006ac4c-3585-43e9-ac1d-a89b80d28e1d,Vorkenntnisse bewerten,0.6746989488601685,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/786a74d6-7ecd-44d5-ae4f-87ff02fe3dbf,Charakter beurteilen,0.6745695471763611,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/b6777cc8-7bc6-459d-9e3b-add034303f3a,Stempelungen kennzeichnen,0.6735810041427612,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/aa2a10db-ba2d-4e2c-a6e0-14848c64c10b,Unvoreingenommenheit in einer Bewertungssituation zeigen,0.6587511301040649,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/6eaeea3a-f100-43e4-b694-16a4dc5a79e1,Erkenntnisse formulieren,0.6547152400016785,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/1f403e44-7a79-4b91-b86a-e406208be161,visuelle Auffassungsgabe besitzen,0.6520274877548218,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/a0e23745-6ba4-45e2-9510-df6e71ed1230,Kenntnisse über das menschliche Verhalten anwenden,0.651018500328064,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/66f8d657-ce46-4a8c-a3f5-60ff7fb6ba35,psychologische Bewertungen vornehmen,0.6492778062820435,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137,analytisch denken,0.6472148299217224,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/1ff7863f-6242-4635-ac1a-9cfabc5099ec,Wahrsagetechniken,0.6466540098190308,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/d56e2c2f-3e01-4b76-a7bb-ecb6d430172f,ganzheitlich denken,0.6423503160476685,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/b01444aa-6f62-4b7d-ab30-4385a9148580,Techniken zur persönlichen Reflexion auf der Grundlage von Feedback,0.6413097381591797,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/dff7260b-0879-4d4a-98db-0866c64e08ec,psychologische Konzepte,0.6387215852737427,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/dbfda24e-0fce-4e5d-832c-f025c4235b26,Aspekte der Vorstellung vermitteln,0.6338039636611938,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+5,http://data.europa.eu/esco/skill/fabc4abb-d255-403e-bfbb-6557afb4db58,Proben kennzeichnen,0.63181072473526,5,erkenntnisvermögen und eigenanalyse,Erkenntnisvermögen und Eigenanalyse
+6,http://data.europa.eu/esco/skill/bf05da8d-772a-4423-adb2-df79672f46f7,Informationen ordnen,0.8996548652648926,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/7b5cce4d-c7fe-4119-b48f-70aa05391787,Informatik,0.8879400491714478,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/f24d196c-fda3-412b-aa8d-c9d36db80cd8,Informationen in Umlauf bringen,0.8656506538391113,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/cc9b4fbb-65f1-4c92-9229-1392d03b6e20,Informationen strukturieren,0.8592845797538757,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e,Informationssystem konzipieren,0.8378127813339233,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339,Informationsstruktur,0.8367403149604797,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/f715be1d-5fc4-49d3-82a5-0b8090d12849,Informationen zusammenfassen,0.8270961046218872,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec,Informationsextraktion,0.8201464414596558,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/fa46a48d-9cb9-422d-afab-1047654dbcdd,sich Informationen einprägen,0.8164232969284058,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/0b8da079-f587-403f-a6ad-cd18b8150044,technische Informationen sammeln,0.8134759068489075,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/3181325d-0590-4c6e-8db1-8278427c18ff,Informationsprozesse analysieren,0.8106191158294678,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/faf208ae-d4a4-43b4-bb82-846b7348b740,Informationsquellen verwalten,0.8040584921836853,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/1e26cb93-6fec-473e-8153-ca06ad05ec57,Informationen komprimieren,0.8037558794021606,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979,Informationsnormen entwickeln,0.790446400642395,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/4bf37ee3-2c8b-44cc-9f91-3eeda46e8c5b,Informationsbedarf ermitteln,0.7900037169456482,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/732cb4dd-af91-4c88-9a9f-5fc62144e500,Informationen übermitteln,0.7866195440292358,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/d1e954cd-d290-4d80-97c0-7969960d2928,verteilte Verzeichnisinformationsdienste,0.7735728025436401,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/ed5bbc64-7017-4e2e-b44e-65df88013a84,Informationssysteme analysieren,0.7717791199684143,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6,Informationskategorisierung,0.7697654962539673,6,informationsaufbereitung,Informationsaufbereitung
+6,http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4,Informationsarchitektur,0.7660009860992432,6,informationsaufbereitung,Informationsaufbereitung
+7,http://data.europa.eu/esco/skill/0ca36eb4-ead9-4a60-863c-713841d69048,Grundierung auftragen,0.8503549098968506,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/3362724b-fe06-4c5d-89a4-76fe62b9268e,Gerüstteile,0.8257381319999695,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/46fd4c46-6802-4cce-95df-cdc25a3ae59d,Bedarf an Veranschaulichung klären,0.821664571762085,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/6eaeea3a-f100-43e4-b694-16a4dc5a79e1,Erkenntnisse formulieren,0.8162860870361328,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/ca0c9312-5ff2-4311-97c8-2fa614616acd,Montageanweisungen ablegen,0.814633309841156,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/c6f412b4-8dcf-4298-8792-88f3be109c85,Staupläne lesen,0.8047821521759033,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/d5b63d02-08a1-4d56-8204-7c7ab66d9311,Brauverfahren,0.7960613369941711,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/8e16511d-3540-47e1-8620-8f111b7ae280,Artikulationstechniken,0.7884935140609741,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/3c333552-8d89-43f5-90bd-856e15bec433,Konstruktionszeichnungen,0.7871105670928955,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/23b45aa6-a479-486d-9e6f-062cbab7c68a,Schnittstellenverfahren,0.7806957960128784,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/5d8b0aff-0599-470a-8eef-9e8cb3ad1626,eine Darbietung gestalten,0.7804582715034485,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/b8e703c0-6953-4f07-879a-5bea28c006c6,Hängepläne entwerfen,0.7801775336265564,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/d8567009-7c6f-43fb-82fb-7154ed8ebca9,Fachterminologie,0.7746627330780029,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/64be6a06-52e8-4f5c-b64d-caa516cfa291,Abschreibung,0.773921012878418,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/dae01690-1dea-43fc-91dd-a1be03cbb1da,Kalfaterungsverfahren,0.7729944586753845,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/26068834-fa73-47b3-9f46-a8b551447854,Entwurf von Brutanlagen,0.7721948623657227,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/e19b64a9-9816-4561-9b93-6222fc925c10,Befragungstechniken,0.7714292407035828,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/bf425f64-93d1-41c0-ab2d-1d02d026204d,für die Illustration vorgesehene Texte analysieren,0.7701972723007202,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/4c58528e-bdaa-43ad-8f5a-8ad0b8cd4bbb,Gestaltungsprinzipien,0.7686605453491211,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+7,http://data.europa.eu/esco/skill/3027f780-8456-4745-94a1-aedf2c3418e6,ein Repertoire gestalten,0.7679908275604248,7,darstellungs und vortragsmethoden,Darstellungs- und Vortragsmethoden
+8,http://data.europa.eu/esco/skill/266ea734-31b2-4e44-9d00-0a3fd03fa454,auswärtige Angelegenheiten,0.7417120933532715,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/a3aa300b-6636-40fc-abe7-4ab3808dd742,Internationales Recht,0.71225905418396,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/b6e05c04-46cb-48f9-8255-5b1145299a10,nationale Interessen vertreten,0.7066571116447449,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/d0c425c6-e3de-465e-923d-d4d30ec4be9b,nationale Grundsätze ordnungsmäßiger Rechnungslegung,0.6963663101196289,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/5753e2ca-8934-45d3-8e52-3877d373239d,Grundsätze der Diplomatie,0.6930012702941895,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/69a13bed-1b33-455d-bf82-13e603f6c859,europäische politische Studien,0.6927488446235657,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/5c003e77-867f-4213-b7e9-0a4671362646,Regierungspolitik,0.6916390657424927,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/88c7c736-8f5f-4f39-a0ad-83e0b91cebe1,internationale Entwicklung,0.6900920867919922,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/0a917ad8-5cbd-442b-9b84-e9f6e4c13f17,Entwicklung außenpolitischer Strategien und Verfahren,0.6893574595451355,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/309bc48b-2899-4396-9242-efc26c0e1aee,Politikwissenschaft,0.6889646649360657,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/626326d5-1cee-4729-9381-3debc87ddac4,verantwortliches Regierungshandeln,0.6848715543746948,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/2f4d68be-6e9f-46fa-9398-0573e900b5e3,neue Entwicklungen in anderen Ländern beobachten,0.6843211650848389,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/c5449667-9b40-4114-8d74-f51177669984,Politikanalyse,0.6828150153160095,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/0023e7a5-43da-4b68-bee3-726ef21f986d,Grundsätze der Diplomatie anwenden,0.681321382522583,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/5aa90e70-f661-4c2d-aaa2-70ac38c1ace9,Konformität mit der Regierungspolitik prüfen,0.6770915985107422,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/66f83eaa-b9ae-471c-ad86-6b9229719e4a,außenpolitische Strategien analysieren,0.6715205907821655,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/5aaf2780-04d7-4bbf-8b06-af36eafe8eba,warenwirtschaftliche Vorschriften,0.6699373126029968,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/0cf27a00-947f-473d-af1a-24028c17ba27,internationale Vorschriften für den Frachtumschlag,0.6687336564064026,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/90ab937a-9421-4a4c-a5fa-5c5a349aa818,internationale Besteuerung von Verrechnungspreisen,0.6683517694473267,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+8,http://data.europa.eu/esco/skill/ec8a9c7f-1d84-4c8a-82c4-d4afe2874483,Beratung in außenpolitischen Angelegenheiten leisten,0.6638706922531128,8,staatskunst und internationale steuerung,Staatskunst und internationale Steuerung
+9,http://data.europa.eu/esco/skill/c10d5d87-36cf-42f5-8a12-e560fb5f4af8,interkulturelle Kompetenz zeigen,0.9109035730361938,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/7d23c508-c007-4221-bb84-0c9a479b8ea6,interkulturelles Bewusstsein zeigen,0.7952098250389099,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/e3ef4981-2cba-4b34-b273-728c3a33d04f,interkulturelle Lehrmethoden anwenden,0.773147702217102,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/5609c548-8581-4a28-8afc-5f744868e9c7,harmonisches Verhältnis zu Menschen mit unterschiedlichem kulturellem Hintergrund aufbauen,0.7412071228027344,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/c683335e-b862-44a5-9d37-fc85b39cf022,Kommunikation mit fremden Kulturen aufbauen,0.7197349667549133,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/5ca953f7-541d-4f67-bc55-7721348366cf,die Vielfalt der kulturellen Werte und Normen respektieren,0.7060790061950684,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/77786157-8482-4c8c-82c6-999b85073c4d,interkulturelle Kommunikationsmethoden lehren,0.7048462629318237,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/83723a7f-e905-4d6c-82ba-f40ab873883d,interkulturelle Kompetenz im Hotel- und Gaststättengewerbe zeigen,0.6934024095535278,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/b55f61a4-5f9e-4741-ba95-9ac04b64119b,in einem multikulturellen Umfeld im Gesundheitswesen arbeiten,0.6903703212738037,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/20e7c937-a5e5-4a27-bb87-ddda5826f777,Kontakt mit Kulturpartnern aufnehmen,0.6868773698806763,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/42f8adc8-e4ff-4263-be44-fe9a83ef286e,im Rahmen der Interessenvertretung für Minderheiten dolmetschen,0.6686328053474426,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/7af90d6c-6f13-41f3-aca2-ef7d3e137f7c,Ethnolinguistik,0.6619676947593689,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/a1a8e4ae-f1e3-44aa-9067-e587e69634cd,kulturelle Vorlieben respektieren,0.653971791267395,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/925ac396-118c-4a07-b4c2-31eb519e2268,kulturelle Aktivitäten entwickeln,0.6256107091903687,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/4b5d4fe3-4280-47c0-b1d2-ab08ace85557,Gemeinschaften mit unterschiedlichem kulturellen Hintergrund soziale Dienste anbieten,0.6241111159324646,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/f524f72e-d3d0-4691-9c57-d19756d8b847,Migranten bei der Integration in die Aufnahmegesellschaft helfen,0.6211535930633545,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/9bfa8293-1f98-4b83-b3e0-a3e53b5766e3,in der Fischerei in einem multikulturellen Umfeld arbeiten,0.6181086897850037,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/56e30a60-0a87-4631-85ea-c69bc8bd0519,Kulturen erforschen,0.6151928901672363,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/960c4aae-82d5-4820-a583-c3bf2908a357,Fremdsprachen für internationale Karrieren,0.6143971681594849,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+9,http://data.europa.eu/esco/skill/5b84fed1-cd6c-47e1-b017-428db0e5cfb3,Kultureinrichtung leiten,0.6140769124031067,9,multikulturelle kompetenz,Multikulturelle Kompetenz
+10,http://data.europa.eu/esco/skill/f0b45409-42ca-42bc-a701-041e594d0657,die Gleichstellung der Geschlechter am Arbeitsplatz gewährleisten,0.6760481595993042,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/19bf58ed-23b8-4763-b231-d4a1e98a225d,Gleichstellung der Geschlechter in geschäftlichen Zusammenhängen fördern,0.6540300846099854,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/bf9879fa-f1fc-4f17-8dcb-ece29ea61682,über berufliche Tätigkeiten berichten,0.6536799669265747,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/ec74893f-e11b-471f-85e0-f7339da98d53,in einer Berufsschule arbeiten,0.6131118535995483,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/6d51cc74-8def-4653-8a62-03db98462cb0,Kostümschneider/Kostümschneiderinnen überwachen,0.6019487380981445,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/8123b24e-3cbb-4853-914a-5cff9c1237f0,Bedürfnisse der Darsteller/Darstellerinnen ermitteln,0.6018277406692505,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/0ff9d03c-0430-4423-91d5-c2d3e12c3a22,bei der Entwicklung von Praktiken für das Wohlbefinden von Mitarbeitern/Mitarbeiterinnen assistieren,0.5927945375442505,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/88ad1562-029f-46eb-add4-d24ded1af1ca,mit Arbeitstieren umgehen,0.5906721949577332,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/e24377fb-020b-4430-8bed-86dd539bbf3a,Geschlechterstudien,0.5863728523254395,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d,Geschlechterdimension in die Forschung einbeziehen,0.5836544632911682,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/ba744649-8500-413b-914e-123b5ebd1d59,Arbeitsanweisungen für Hebetätigkeiten verstehen,0.5819166898727417,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/556be6f4-225f-46a2-a795-d3d54d98c3f7,Arbeitsplatzbegehungen durchführen,0.5782709121704102,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/fb9c12af-ec45-498a-8e52-891371191557,einzelne Mitarbeiter/Mitarbeiterinnen betreuen,0.5782092809677124,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/056f3e1e-ba27-4498-9fd1-c22ae04dbf3a,Arzthelfer/Arzthelferinnen beaufsichtigen,0.5714908838272095,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/58287dcf-66a1-4023-b35b-b859242162aa,im Team von Restauratoren/Restauratorinnen arbeiten,0.5615111589431763,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/e6ec4da7-8c85-4e80-8660-075f36196a45,Assistenzärzte/Assistenzärztinnen beaufsichtigen,0.559348464012146,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/d8a03465-8cc2-43d0-9658-07be1c094055,Proben von Darstellern/Darstellerinnen anleiten,0.5530945658683777,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/3e4776e7-dd79-4a18-b334-6e8f9e989a49,mit Gewerkschaftsfunktionären und -funktionärinnen zusammenarbeiten,0.5520706176757812,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/1336899e-859e-4cd2-8aaf-21d2c4e6989e,Kassierer und Kassiererinnen überwachen,0.5501313209533691,10,damen im berufsleben,Damen im Berufsleben
+10,http://data.europa.eu/esco/skill/004017c9-0337-4f5a-8077-798de9ef12e3,als Streetworker tätig sein,0.549492359161377,10,damen im berufsleben,Damen im Berufsleben
+11,http://data.europa.eu/esco/skill/0d7f2cce-245a-4d02-9b8d-2e9946cc4c5d,Online-Schulungen anbieten,0.8427867293357849,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/c9b6aa32-6c42-4903-8e5a-23e43edf03fc,Online-Moderationstechniken,0.767123818397522,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/3d957fb2-b8f4-4b4c-b955-23299c761ad5,webbasierte Schulungen konzipieren,0.7396645545959473,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/b820c9de-4d00-4e79-9af9-33f26044ff42,Informatik unterrichten,0.726860761642456,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/b6d14ab8-3441-4cbe-8a0e-5b4f7f994730,digitales Lehrmaterial entwickeln,0.7233357429504395,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/dc298fac-7ab4-4feb-9b43-33d947d7703e,Standards für webbasiertes E-Learning,0.7120762467384338,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/93a2f730-d5f6-4604-a25e-a2ee206ea468,Lehrer und Ausbilder in E-Learning-Methoden schulen,0.7076938152313232,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/90267570-aad1-4c54-9c9c-5a1a5847a819,über Schulungen informieren,0.6934744119644165,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/5f5e9350-1d13-4391-b9e1-07f6b2047fc5,E-Learning,0.686371386051178,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/406117ad-e035-483f-bbd3-9f6c2d95e535,Online-Hilfe bereitstellen,0.6683743596076965,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/5a676421-d33a-490f-8043-4f81224d3f47,Lernförderung anbieten,0.6610398292541504,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/83cc70a1-c080-4a92-85e8-efba52a6fce9,Inhalte der Sekundarstufe unterrichten,0.6599488258361816,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/7fc4c18a-68f3-425a-aadf-f83633be47a1,Lerntechnologien,0.6589421033859253,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/d4571b99-fac8-4cf7-8944-fdae399f4413,EFL-Alphabetisierungskurs unterrichten,0.6557098627090454,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/478e5c9d-c6c2-45a7-90b4-97ec2c736ac0,vorbereitend unterrichten,0.6543682813644409,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/0e62eba3-d076-47e5-b22d-340a8faccb3b,assistive Technologie im Bildungswesen,0.6530426144599915,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/8a6394d1-f44f-4b0d-81d5-7201fc025ba8,E-Learning-Plan entwickeln,0.6509813070297241,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/c0502e2a-1e12-422e-994e-cf9bf814e3b2,Lernende bei der Nutzung unterstützender Technologien anleiten,0.6495334506034851,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/3703eac1-8941-4d14-b305-b03f653b08c8,neuen Online-Inhalt erstellen,0.644847571849823,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+11,http://data.europa.eu/esco/skill/c8fa4313-80b0-4f37-8b1b-1739707bc362,digitale Kompetenz vermitteln,0.6423060894012451,11,online bildung und lehrgangseinschätzung,Online-Bildung und Lehrgangseinschätzung
+12,http://data.europa.eu/esco/skill/d7809fa0-8818-492f-95aa-ac8993e22aa8,Betrieb von Transportanlagen,0.814161479473114,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/ec410a76-f890-4012-8863-b82f2c75527c,Transporttechnik,0.8001399636268616,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/a16e3fc6-c77d-46e3-aa18-c691fed47fd1,Frachtbeförderungsmethoden,0.7959316372871399,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/12d7ea6f-ec1f-4f9a-a50b-8e2e9693f068,Gefahrguttransport,0.7774394750595093,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/50877777-d3c3-41ac-9556-4b27e642d588,Baustoffe transportieren,0.7721509337425232,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/60493b7f-8613-431e-91ea-6a2c0410c6d4,Frachtkapazität von Fahrzeugen,0.7665521502494812,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/7838de1e-d65e-4a3f-b60b-e2213026116f,Geräte für den Materialtransport bedienen,0.7661474347114563,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/650899a1-87c4-45f6-8042-e909ce17ec40,Stämmetransport verwalten,0.7657032608985901,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/fb39389b-07d5-439f-948b-6c6e58c0384f,Beförderung von Waren aus Lagereinrichtungen verwalten,0.7599048614501953,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/2baaa289-8a5c-456e-88f1-eff4d54b010d,für die Beförderung von Gütern mittels Rohrleitung verwendete Lagerbehälter überwachen,0.753703236579895,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/de857fbb-91a6-4a3f-8a47-93a9c1a616c8,Transporte planen,0.7437751293182373,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/dda26251-7331-41fd-871f-1106ca468189,Verkehrstechnik,0.7430068850517273,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/05fe02a3-5d4c-4bf0-97ed-f57ae00e8aa7,Großtransport von Rohstoffen handhaben,0.7407325506210327,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/11f364dd-0814-4398-b00e-10d1be8b27af,Transportsysteme entwerfen,0.7385536432266235,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/99095ca0-1218-462d-9e95-79e334ba8b63,Transportstudien analysieren,0.7376325130462646,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/ffc836d3-1897-4ec1-877e-a4f08f1e05c6,Fahrzeugteilelagerung organisieren,0.7368873953819275,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/5b0d14b1-0bf6-4f6b-b922-4becc213f0aa,Gefahrgüter transportieren,0.7363587617874146,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/5f8a6414-7095-410f-aee6-774cec68077e,Fracht in einem Güterfahrzeug unterbringen,0.7319595813751221,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/e843973c-23dd-416a-8a9c-9e89512542fb,Logistik,0.7245246171951294,12,speicher und transportwesen,Speicher und Transportwesen
+12,http://data.europa.eu/esco/skill/51787098-5f3a-40b3-ae24-dcc790dd01e4,rollendes Material in Verschiebebahnhöfen rangieren,0.7244131565093994,12,speicher und transportwesen,Speicher und Transportwesen
+13,http://data.europa.eu/esco/skill/05281013-f5ae-4bf2-ad23-d5d6f7573b46,Bestandsplanung durchführen,0.7556878328323364,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/ac33e224-5027-4799-989a-b57db935f97a,Zugplanung,0.7542567849159241,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/46fd4c46-6802-4cce-95df-cdc25a3ae59d,Bedarf an Veranschaulichung klären,0.7409014701843262,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/597d6a3a-0283-4945-8001-4719d210433d,Planierraupen bedienen,0.7396954894065857,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/ed7b7841-4df9-4936-9415-f6067e1f3344,Evaluierung planen,0.7378226518630981,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/d2759db0-9d3b-4942-80c3-1684890f5fb0,jugendzentrierter Ansatz,0.734128475189209,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/25b480dc-ece5-4b7e-9380-599f13fe9056,Beförderungsstrategie umsetzen,0.7292721271514893,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/7d11f682-644f-44fa-ad08-d6b0d97d2f28,Beförderungsstrecken entwickeln,0.7276654243469238,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/bc730f20-5fc8-40c8-8786-0b3085dd159d,theoretische Fahrkenntnisse vermitteln,0.7209734320640564,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/1cc990a6-3b53-4a7c-a645-64b8fdda1aa3,Hilfestellung bei der Erstellung eines Probenplanes leisten,0.7140445709228516,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/0623ef90-52f6-496f-a4ca-55925baf00ae,Verlegeplan erstellen,0.7132611274719238,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/c368f4eb-d6b2-4b8f-8f21-14926ab7fb07,Orientierungsvermögen einsetzen,0.7121366262435913,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/3b927416-da82-43ff-9e27-8233e467edb6,Grundsätze der Zugführung unterrichten,0.7103426456451416,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/170ea5ac-0540-436f-b380-78b01b1a6af8,Wegbeschreibungen erstellen,0.7097705602645874,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e,strategische Planung umsetzen,0.7093729972839355,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/f0699875-51da-48d2-bc92-54b0749baef1,Kursüberblick erstellen,0.7081969976425171,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/20420f55-29a5-445c-a9a7-398ae6e52f7e,Staupläne erstellen,0.7042830586433411,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2,strategische Planung,0.7041606307029724,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/cca352e3-404f-4897-92ef-e13b53b29b30,Einstellungen an den Abwurfschächten vornehmen,0.7030287981033325,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+13,http://data.europa.eu/esco/skill/e46186e4-c784-4122-9828-4881c01bfae0,Routen planen,0.7029975652694702,13,laufbahnplanung und eigenanalyse,Laufbahnplanung und Eigenanalyse
+14,http://data.europa.eu/esco/skill/f1f5eb7f-1776-456b-83a4-f3e06df2da5a,Gebietsplanung anwenden,0.8061936497688293,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/a550c4e9-5773-47a2-861d-e57ceb076eb6,Grundstücksgrenzlinien festlegen,0.7359982132911682,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/8b46636e-e201-4086-a8d5-049b65eaf40e,zum Thema Landnutzung beraten,0.7282707691192627,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/39e71107-3aa9-41a0-809c-edea477c968f,Landvermessungen durchführen,0.7111167311668396,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/4f0f80f1-2041-462c-b5a2-34641cec6397,Grünbearbeitung vornehmen,0.6979306936264038,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/ec18652e-c6c9-496b-9360-aabbbcaa0fa0,Grünflächen und Parkanlagen entwerfen,0.6876822113990784,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/f21c2b32-83e0-46b2-99b1-c277e3d27f2f,geotechnische Feldprospektion planen,0.6856086254119873,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/6444575a-b656-4de3-abd3-e89118b36b34,die Nutzung von Landflächen überwachen,0.6806057691574097,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/76654176-5cc8-4cb3-b307-4ef1b6c2543c,behördliche Zoneneinteilung,0.6759802103042603,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/dd5451c6-a006-4218-bf94-348d81bed42f,Erhaltungslandwirtschaft,0.6701334118843079,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/7f18039d-dfae-471b-9daa-507f6b2d2842,Stadtplanung,0.6695442795753479,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/0db1a833-e4b7-4cae-9c6f-ddcdd4326e85,geografische Gebiete,0.667330265045166,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/e2235528-49c7-40c3-b44e-c5962ec1af85,Landschaftsbauprojekte umsetzen,0.6669790744781494,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/b401183d-cda3-4137-9feb-eb1054e2771e,Landschaftsbauprojekte beaufsichtigen,0.6593174934387207,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/e9d6ebab-13ad-45ce-a955-fc3f1e56add8,Maßnahmen zur Sicherung von Naturschutzgebieten planen,0.657768964767456,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/fd61cec0-cfab-4a4a-9157-e8f21e612116,Prinzipien des Landschaftsbaus,0.6543208956718445,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/d6f40152-c00d-44fa-a48f-55e39f08c14e,Landschaft pflegen,0.6507934331893921,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/1f51e46a-4588-4c1d-b507-3f9ea480dde2,Landschaftssysteme entwickeln,0.6499171853065491,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/c4271d05-0713-4e14-8086-8f91c9dbda02,geografische Vertriebsbereiche festlegen,0.6488876938819885,14,territoriale grünplanung,Territoriale Grünplanung
+14,http://data.europa.eu/esco/skill/0bca9840-478a-40fd-a6c3-c8cc923add98,Bewirtschaftungspläne entwickeln,0.648792028427124,14,territoriale grünplanung,Territoriale Grünplanung

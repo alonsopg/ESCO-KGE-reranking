@@ -1,0 +1,7 @@
+ANN@100->@50 nDCG@50: 0.5006
+ComplEx reference nDCG@50: 0.5516
+RotatE reference nDCG@50: 0.5497
+
+Best SVD ablation: sim-only @ 512 dims
+Best SVD nDCG@50: 0.6401
+Explained variance: 0.7729

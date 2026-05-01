@@ -1,0 +1,46 @@
+qid,raw_query,rank,skill_label,sim
+0,Digitaler Schutz,1,digitale Sicherheitsmaßnahmen anwenden,0.904953122138977
+0,Digitaler Schutz,2,IKT-Geräte schützen,0.8224214911460876
+0,Digitaler Schutz,3,IKT-Sicherheit,0.7561370134353638
+1,Einfache Datenanalyse,1,Datenanalyse,0.9313693046569824
+1,Einfache Datenanalyse,2,Datenanalyse durchführen,0.9177560806274414
+1,Einfache Datenanalyse,3,Daten untersuchen,0.8346570730209351
+10,Damen im Berufsleben,1,die Gleichstellung der Geschlechter am Arbeitsplatz gewährleisten,0.6760481595993042
+10,Damen im Berufsleben,2,Gleichstellung der Geschlechter in geschäftlichen Zusammenhängen fördern,0.6540300846099854
+10,Damen im Berufsleben,3,über berufliche Tätigkeiten berichten,0.6536799669265747
+11,Online-Bildung und Lehrgangseinschätzung,1,Online-Schulungen anbieten,0.8427867293357849
+11,Online-Bildung und Lehrgangseinschätzung,2,Online-Moderationstechniken,0.767123818397522
+11,Online-Bildung und Lehrgangseinschätzung,3,webbasierte Schulungen konzipieren,0.7396645545959473
+12,Speicher und Transportwesen,1,Betrieb von Transportanlagen,0.814161479473114
+12,Speicher und Transportwesen,2,Transporttechnik,0.8001399636268616
+12,Speicher und Transportwesen,3,Frachtbeförderungsmethoden,0.7959316372871399
+13,Laufbahnplanung und Eigenanalyse,1,Bestandsplanung durchführen,0.7556878328323364
+13,Laufbahnplanung und Eigenanalyse,2,Zugplanung,0.7542567849159241
+13,Laufbahnplanung und Eigenanalyse,3,Bedarf an Veranschaulichung klären,0.7409014701843262
+14,Territoriale Grünplanung,1,Gebietsplanung anwenden,0.8061936497688293
+14,Territoriale Grünplanung,2,Grundstücksgrenzlinien festlegen,0.7359982132911682
+14,Territoriale Grünplanung,3,zum Thema Landnutzung beraten,0.7282707691192627
+2,Kernelemente der Unternehmensführung,1,Unternehmensführung umsetzen,0.8993304967880249
+2,Kernelemente der Unternehmensführung,2,Abläufe in der Geschäftsleitung,0.8820277452468872
+2,Kernelemente der Unternehmensführung,3,über die allgemeine Führung eines Unternehmens berichten,0.8599281907081604
+3,Ökonomische Kenntnisse,1,Volkswirtschaftslehre,0.9151762127876282
+3,Ökonomische Kenntnisse,2,wirtschaftswissenschaftliche Grundlagen vermitteln,0.8797510862350464
+3,Ökonomische Kenntnisse,3,Wirtschaftsmathematik,0.8464016318321228
+4,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)",1,Rechte des geistigen Eigentums verwalten,0.7983658313751221
+4,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)",2,Recht am geistigen Eigentum,0.7365182042121887
+4,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)",3,Nutzungsrechte verhandeln,0.7330181002616882
+5,Erkenntnisvermögen und Eigenanalyse,1,Zustandserkennung,0.7784296274185181
+5,Erkenntnisvermögen und Eigenanalyse,2,Selbstreflexion vornehmen,0.7399799823760986
+5,Erkenntnisvermögen und Eigenanalyse,3,Kontamination beurteilen,0.6875067949295044
+6,Informationsaufbereitung,1,Informationen ordnen,0.8996548652648926
+6,Informationsaufbereitung,2,Informatik,0.8879400491714478
+6,Informationsaufbereitung,3,Informationen in Umlauf bringen,0.8656506538391113
+7,Darstellungs- und Vortragsmethoden,1,Grundierung auftragen,0.8503549098968506
+7,Darstellungs- und Vortragsmethoden,2,Gerüstteile,0.8257381319999695
+7,Darstellungs- und Vortragsmethoden,3,Bedarf an Veranschaulichung klären,0.821664571762085
+8,Staatskunst und internationale Steuerung,1,auswärtige Angelegenheiten,0.7417120933532715
+8,Staatskunst und internationale Steuerung,2,Internationales Recht,0.71225905418396
+8,Staatskunst und internationale Steuerung,3,nationale Interessen vertreten,0.7066571116447449
+9,Multikulturelle Kompetenz,1,interkulturelle Kompetenz zeigen,0.9109035730361938
+9,Multikulturelle Kompetenz,2,interkulturelles Bewusstsein zeigen,0.7952098250389099
+9,Multikulturelle Kompetenz,3,interkulturelle Lehrmethoden anwenden,0.773147702217102

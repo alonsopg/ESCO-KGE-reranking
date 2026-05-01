@@ -1,0 +1,3 @@
+Unit,Top-k,Min sim.,Coverage (%),Zero-link n,Full top-k (%),Avg. kept links,Median sim.,p10 sim.,p90 sim.
+Query,20,0.45,100.0,0,100.0,20.0,0.713,0.642,0.815
+Document,15,0.45,99.6,12,94.2,14.6,0.608,0.517,0.713

@@ -1,0 +1,16 @@
+qid,raw_query,skill_label,sim,token_overlap_n,overlap_tokens
+10,Damen im Berufsleben,die Gleichstellung der Geschlechter am Arbeitsplatz gewährleisten,0.6760481595993042,0,
+8,Staatskunst und internationale Steuerung,auswärtige Angelegenheiten,0.7417120933532715,0,
+13,Laufbahnplanung und Eigenanalyse,Bestandsplanung durchführen,0.7556878328323364,0,
+5,Erkenntnisvermögen und Eigenanalyse,Zustandserkennung,0.7784296274185181,0,
+4,"Unternehmerische Fähigkeiten (Strategie, Ablaufsteuerung, Einkauf, Unternehmensleitung und Schutz von Urheberrechten)",Rechte des geistigen Eigentums verwalten,0.7983658313751221,0,
+14,Territoriale Grünplanung,Gebietsplanung anwenden,0.8061936497688293,0,
+12,Speicher und Transportwesen,Betrieb von Transportanlagen,0.814161479473114,0,
+7,Darstellungs- und Vortragsmethoden,Grundierung auftragen,0.8503549098968506,0,
+6,Informationsaufbereitung,Informationen ordnen,0.8996548652648926,0,
+0,Digitaler Schutz,digitale Sicherheitsmaßnahmen anwenden,0.904953122138977,0,
+3,Ökonomische Kenntnisse,Volkswirtschaftslehre,0.9151762127876282,0,
+11,Online-Bildung und Lehrgangseinschätzung,Online-Schulungen anbieten,0.8427867293357849,1,online
+2,Kernelemente der Unternehmensführung,Unternehmensführung umsetzen,0.8993304967880249,1,unternehmensführung
+9,Multikulturelle Kompetenz,interkulturelle Kompetenz zeigen,0.9109035730361938,1,kompetenz
+1,Einfache Datenanalyse,Datenanalyse,0.9313693046569824,1,datenanalyse
