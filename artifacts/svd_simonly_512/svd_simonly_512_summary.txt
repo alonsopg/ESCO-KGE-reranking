@@ -1,0 +1,4 @@
+used_dim=512
+explained_variance=0.772856
+alpha=0.5
+scheme=sim-only

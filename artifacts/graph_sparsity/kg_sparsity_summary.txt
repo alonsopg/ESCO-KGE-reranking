@@ -1,0 +1,14 @@
+Entities: 13939
+Triples: 12530
+Connected nodes: 5533 (39.7%)
+Isolated nodes: 8406 (60.3%)
+Leaf nodes: 2971 (21.3%)
+Nodes with degree <=2: 12668 (90.9%)
+Median degree: 0.0
+P90 degree: 2.0
+P99 degree: 7.0
+Max degree: 25
+Connected components: 9049
+Largest component size: 2478 (17.8%)
+Optional triples: 11258
+Hierarchy triples: 1272

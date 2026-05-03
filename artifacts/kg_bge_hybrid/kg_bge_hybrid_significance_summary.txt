@@ -1,0 +1,7 @@
+ANN source: /Users/user/Submissions/BEA-2026/artifacts/svd_ablation/dense100_run.csv
+CrossEncoder source: /Users/user/Submissions/BEA-2026/artifacts/sig_tmp/crossencoder_run.csv
+
+Hybrid(KG+BGEGemma) vs KG(SVD sim-only @512, alpha=0.30): mean delta=0.023179, wins/losses/ties=11/3/1, rand p=0.01860, t p=0.02659, W p=0.02194
+Hybrid(KG+BGEGemma) vs BGEGemma: mean delta=0.070096, wins/losses/ties=12/2/1, rand p=0.00275, t p=0.00309, W p=0.00429
+Hybrid(KG+BGEGemma) vs ANN@100->@50: mean delta=0.169364, wins/losses/ties=13/2/0, rand p=0.00030, t p=0.00002, W p=0.00031
+Hybrid(KG+BGEGemma) vs CrossEncoder: mean delta=0.204841, wins/losses/ties=15/0/0, rand p=0.00005, t p=0.00001, W p=0.00006

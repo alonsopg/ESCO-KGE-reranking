@@ -1,0 +1,10 @@
+used_dim=512
+explained_variance=0.772856
+alpha_default=0.50
+ndcg_default=0.640077
+best_alpha=0.30
+best_ndcg=0.646782
+improvement_vs_default=+0.006705
+bgegemma_ndcg=0.600791
+margin_vs_bgegemma=+0.045991
+n_alphas=21

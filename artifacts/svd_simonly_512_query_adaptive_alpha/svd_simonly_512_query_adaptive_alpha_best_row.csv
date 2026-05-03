@@ -1,0 +1,2 @@
+Method,nDCG,Delta,%,MRR,P,R,F1,MAP,rule,stat,threshold,alpha_low,alpha_high,high_conf_qids,low_conf_qids,used_dim,explained_variance
+"adaptive(stat=max,thr=0.8428,lo=0.15,hi=0.40)",0.6494319536851333,0.1488358644998199,29.731727377662956,0.9044444444444444,0.5640000000000001,0.482794624514011,0.5202475477982504,0.41203558878021906,binary_high_conf_low_alpha,max,0.8427861928939819,0.15,0.4,8,7,512,0.7728558778762817

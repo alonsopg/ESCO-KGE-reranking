@@ -1,0 +1,15 @@
+metric,value
+Entities,13939.0
+Triples,12530.0
+Connected nodes,5533.0
+Isolated nodes,8406.0
+Leaf nodes (degree=1),2971.0
+Nodes with degree <=2,12668.0
+Median degree,0.0
+90th percentile degree,2.0
+99th percentile degree,7.0
+Maximum degree,25.0
+Connected components,9049.0
+Largest component size,2478.0
+Optional triples,11258.0
+Hierarchy triples,1272.0
