@@ -1,8 +1,8 @@
 # ESCO-KGE-reranking
 
-Code and experiment artifacts for the BEA 2026 paper on ESCO-grounded
-knowledge-graph re-ranking for German vocational education and training
-(VET) item retrieval.
+Code and experiment artifacts for a KONVENS submission on ESCO-grounded
+knowledge-graph re-ranking for German vocational education and training (VET)
+item retrieval.
 
 ## Repository layout
 
@@ -126,4 +126,5 @@ For exact values and statistical tests, use the exported CSV and TXT files in
 
 ## Citation
 
-If you use this code, please cite the accompanying BEA 2026 paper.
+If you use this code, please cite the accompanying KONVENS paper once the
+citation details are available.
